@@ -1,0 +1,25 @@
+{
+  "name": "serverless-package-node-native-aws-lambda",
+  "version": "1.0.0",
+  "description": "Compile native modules to AWS lambda",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnotchLabs/serverless-package-node-native-aws-lambda.git"
+  },
+  "author": "Knotch, Inc.",
+  "license": "MIT",
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/KnotchLabs/serverless-package-node-native-aws-lambda/issues"
+  },
+  "homepage": "https://github.com/KnotchLabs/serverless-package-node-native-aws-lambda#readme",
+  "dependencies": {},
+  "keywords": [
+    "serverless",
+    "aws lambda",
+    "serverless package",
+    "node native"
+  ],
+  "devDependencies": {}
+}
